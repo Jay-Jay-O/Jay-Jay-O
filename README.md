@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jay-Jay-O</h1>
-<h3 align="center">A hobby software developer (for now)</h3>
+<h1 align="center">Hi 👋, I'm Jay-Jay-O 🙃</h1>
+<h3 align="center">A hobby software developer (for now 😅)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-jay-o&label=Profile%20views&color=0e75b6&style=flat" alt="jay-jay-o" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my website (on maintenance) [https://susejjims.com](https://susejjims.com)
 
-- ⚡ Fun fact **I am Jesus**
+- ⚡ Fun fact: I am **Jesus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
