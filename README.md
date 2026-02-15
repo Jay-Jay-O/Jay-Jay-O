@@ -27,6 +27,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay-Jay-O/Jay-Jay-O/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jay-Jay-O/Jay-Jay-O/output/pacman-contribution-graph.svg">
