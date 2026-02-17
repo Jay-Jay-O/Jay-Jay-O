@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-jay-o&label=Profile%20views&color=0e75b6&style=flat" alt="jay-jay-o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-jay-o" alt="jay-jay-o" /></a> </p>
-
 - 👨‍💻 Visit my website (on maintenance) [https://susejjims.com](https://susejjims.com)
 
 - ⚡ Fun fact: I am **Jesus**
@@ -45,13 +43,15 @@
 
 <br clear="both">
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay-Jay-O/Jay-Jay-O/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jay-Jay-O/Jay-Jay-O/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jay-Jay-O/Jay-Jay-O/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Jay-Jay-O/Jay-Jay-O/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-jay-o&show_icons=true&locale=en&layout=compact" alt="jay-jay-o" /></p>
+
 
